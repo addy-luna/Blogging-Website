@@ -1,0 +1,23 @@
+{
+  "name": "Addy Tatum Writes",
+  "version": "1.0.0",
+  "description": "A blogging site for my code journey and reading",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "keywords": [
+    "blog",
+    "read",
+    "code",
+    "software",
+    "web"
+  ],
+  "author": "Adela Tatum",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.5.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
